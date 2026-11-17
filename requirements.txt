@@ -1,0 +1,9 @@
+playwright
+qdrant-client
+sentence-transformers
+python-dotenv
+anthropic
+streamlit
+# if you use another provider install it instead of anthropic:
+# openai
+# google-genai

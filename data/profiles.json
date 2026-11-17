@@ -1,0 +1,21 @@
+{
+  "customer_001": {
+    "wife": {
+      "likes": [
+        "dark chocolate"
+      ],
+      "dislikes": [],
+      "allergies": [
+        "nuts"
+      ],
+      "city": "Kandy",
+      "past_orders": [
+        {
+          "year": 2025,
+          "product_id": "cake00demo01",
+          "name": "Nut-free Chocolate Cake"
+        }
+      ]
+    }
+  }
+}
